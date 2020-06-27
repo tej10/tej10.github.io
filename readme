@@ -1,3 +1,5 @@
 
-This file includes basic nlp commands, such as how to download corpus, dealing with a selected corpus.
+This file has basic nlp commands, such as how to download corpus, dealing with a selected corpus.
 The operatins include concepts like coca demonstration, tokenising, pos(parts of speech) tagging, stemming and it's types.
+Following the above operations, it also includes chunking, embedding, sentiment analysis of text data.
+It also includes certain level of working on Indian regional language TELUGU using nltk and Indic nlp libraries.
